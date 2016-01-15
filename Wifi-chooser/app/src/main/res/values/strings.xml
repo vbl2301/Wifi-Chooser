@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi-chooser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnCarregar_text">Carregar</string>
+    <string name="txvTitulo_text">Escolha uma escola:</string>
+    <string name="LogoSjc">Logo da Prefeitura Municipal de São José dos Campos</string>
+
+</resources>
