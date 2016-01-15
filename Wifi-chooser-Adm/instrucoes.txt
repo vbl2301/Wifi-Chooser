@@ -1,0 +1,1 @@
+pasta contendo a versão de administração do wifi-chooser
